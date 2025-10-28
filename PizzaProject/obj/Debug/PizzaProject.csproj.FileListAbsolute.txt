@@ -1,0 +1,10 @@
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\obj\Debug\PizzaProject.FrmPizzaOrder.resources
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\EXCALIBUR\OneDrive\Masaüstü\C#\PizzaProject\obj\Debug\PizzaProject.pdb
