@@ -56,4 +56,4 @@ This project was created to practice:
 ---
 
 ## 📸 Screenshots 
-![Pizza Project Screenshot]
+![Pizza Project Screenshot](https://github.com/NedaAssem/PizzaProject/blob/f5da30390f379810e430df90839f53dd0bca5c89/Image.png)
