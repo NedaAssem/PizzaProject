@@ -55,5 +55,5 @@ This project was created to practice:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 _Add screenshots of your pizza order form here later._
