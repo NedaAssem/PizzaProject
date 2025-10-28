@@ -24,17 +24,17 @@ The project focuses on learning **event handling**, **form design**, and **basic
 
 ## 🏗️ Project Structure
 
-PizzaProject/
-│
-├── Forms/
-│ ├── MainForm.cs
-│ ├── MainForm.Designer.cs
-│ └── Program.cs
-│
-├── Resources/
-│ └── (images, icons, etc.)
-│
-└── README.md
+PizzaProject/   
+│  
+├── Forms/   
+│ ├── MainForm.cs   
+│ ├── MainForm.Designer.cs   
+│ └── Program.cs   
+│    
+├── Resources/   
+│ └── (images, icons, etc.)   
+│   
+└── README.md   
 
 
 
